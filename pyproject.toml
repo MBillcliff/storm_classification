@@ -1,0 +1,8 @@
+[project]
+name = "storm_classification"
+version = "0.1.0"
+description = "Classification tools for storm forecasting"
+dependencies = []
+
+[tool.setuptools]
+include = ["storm_classification"]

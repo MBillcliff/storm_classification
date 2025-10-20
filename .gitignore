@@ -1,0 +1,33 @@
+# Ignore figures directory
+figures/
+
+# Ignore build/dist/egg-info files
+storm_classification.egg-info/
+build/
+dist/
+
+# Ignore a specific notebook
+notebooks/weighted_classification_training_and_testing.ipynb
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+notebooks/.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
