@@ -51,10 +51,8 @@ This work is currently under peer review. A formal citation will be provided upo
 
 If you use this code, please cite the Zenodo archive:
 
-> Billcliff, M. (2025). *storm_forecasting_MB: Code for "Extended Lead-Time Geomagnetic Storm Forecasting..." (v1.0.0)*. Zenodo. https://doi.org/10.5281/zenodo.15423567
+> Billcliff, M. (2025). *storm_forecasting_MB: Code for "Extended Lead-Time..." (v1.0.0)*. Zenodo. https://doi.org/10.5281/zenodo.17571893
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15423567.svg)](https://doi.org/10.5281/zenodo.15423567)
-
-
+[![DOI](https://zenodo.org/badge/1079939128.svg)](https://doi.org/10.5281/zenodo.17571893)
 
 
